@@ -2,10 +2,10 @@
 
 ## Summary
 * In response to growing emphasis on workplace diversity, our company undertook a comprehensive analysis to assess its current diversity landscape. The primary objectives were to identify the most effective recruiting sources for diversity, uncover potential pay inequities, and evaluate the organization's overall diversity profile concerning race, gender, and age. Data visualization played a pivotal role in this analysis. Bar plots revealed wage disparities by gender in specific departments, with women in the Software Engineering department earning more on average, albeit with a smaller sample size. Scatter plots highlighted pay rate variations in the Admin Offices and Software Engineering departments. Age diversity was depicted using distribution plots, indicating a concentration of employees in their late 30s to early 40s. Histogram showcased gender distribution across recruitment sources and departments, revealing sources like newspaper/magazine and Indeed as more favorable for recruiting women. Key findings included Diversity Job Fair emerged as a cornerstone in diversifying Dental Magic. At IT/IS, people of two or more races are paid significantly less than other workers in the same job position. Women constituting 60% of the workforce, yet earning less on average than men. Most workers aged 60+ in Production work at lower-paid positions.
-
+---
 ## Introduction
 * In the contemporary business landscape, there's a growing emphasis on fostering diversity and inclusion within organizations. Our company, like many others, recognizes the myriad benefits of a diverse workforce, from enhanced creativity to better financial performance. However, there have been concerns raised, both internally and from external stakeholders, about the current state of diversity within our organization. Questions have emerged about the effectiveness of our recruiting sources in promoting diversity, potential pay inequities across different departments, and the overall diversity profile of the company. Given the importance of these issues, both from an ethical standpoint and for the company's long-term success, there was a pressing need to conduct a comprehensive diversity analysis, focusing on race, gender, and age.
-
+---
 ## Project Requirement
 
 The main purposes of this project are: <BR>
@@ -16,6 +16,7 @@ The main purposes of this project are: <BR>
 
 We will be analyzing each matter with regard to race, gender, and age.
 
+---
 ## Process Outline
 ### Racial Diversity
 
@@ -31,7 +32,7 @@ We will be analyzing each matter with regard to race, gender, and age.
 
 ![](https://github.com/KunLinTsai24/Recruitment-and-Compensation-Diversity-Report/blob/main/img/Racial%204.jpg)
 * The performance and tenure of two or more races of employees are rather leveled with that of colleagues in the same position, yet their pay rates are lower than any other. As far as the dataset goes, this points to the existence of discrimination.
-
+---
 ### Gender Equality
 
 ![](https://github.com/KunLinTsai24/Recruitment-and-Compensation-Diversity-Report/blob/main/img/Gender%201.jpg)
@@ -49,7 +50,7 @@ We will be analyzing each matter with regard to race, gender, and age.
 
 * We now see that a male is an outlier.
 * He is the manager of the department, but his pay is registered as the lowest one. It is highly unlikely that his pay rate is lower than his subordinates’. Also, the data doesn’t point to bad performance. It might be sensible to assume that this piece of information is actually incorrect, possibly due to input error.
-
+---
 ### Age Diversity
 
 ![](https://github.com/KunLinTsai24/Recruitment-and-Compensation-Diversity-Report/blob/main/img/Age%201.jpg)
@@ -58,7 +59,7 @@ We will be analyzing each matter with regard to race, gender, and age.
 
 ![](https://github.com/KunLinTsai24/Recruitment-and-Compensation-Diversity-Report/blob/main/img/Age%202.jpg)
 * The graph clarifies that it is generally not the case that older workers are getting a lower salary than their position’s average. Matures’ pay rates are limited because almost all of them work in lesser functions (Production Technician I and II).
-
+---
 
 ## Conclusion
 **1. Which sources yield the best results for recruiting a diverse workforce?**
@@ -80,7 +81,7 @@ We will be analyzing each matter with regard to race, gender, and age.
 * Gender-wise, the company employs predominantly women, including its CEO, which is noteworthy in an employment landscape that typically favors men for leadership roles. The high number of women in Production is also significant. However, the company must address the gender pay gap that still exists.
 
 * Age diversity is lacking, with only 5.2% of employees aged 60 or above, which is low compared to national figures. This is particularly concerning in the Software Engineering and Administrative departments with minimal representation of employees over 45, while the Sales department shows a better inclusion of older, well-compensated employees.
-
+---
 ## Learning Outcome
 Through this project, I honed my ability to critically analyze workplace diversity, leveraging data analysis logic and advanced visualization techniques using matplotlib and seaborn. My approach involved systematically evaluating recruiting sources, pay equity, and overall diversity profiles by race, gender, and age. By effectively using bar plots, scatter plots, distribution plots, and histograms, I was able to uncover significant insights, such as gender-based wage disparities and the lack of age diversity. This experience strengthened my skills in translating complex data into clear, actionable insights, demonstrating my proficiency in data-driven decision-making.
 
