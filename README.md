@@ -60,7 +60,7 @@ We will be analyzing each matter with regard to race, gender, and age.
 * The graph clarifies that it is generally not the case that older workers are getting a lower salary than their position’s average. Matures’ pay rates are limited because almost all of them work in lesser functions (Production Technician I and II).
 
 
-## Result
+## Conclusion
 **1. Which sources yield the best results for recruiting a diverse workforce?**
 
 * An evaluation has shown that participating in the Diversity Job Fair is crucial for enhancing Dental Magic's diversity and should be further promoted. Most hires from Indeed and college recruitment initiatives belong to minority groups, whereas other sources predominantly attract Caucasian candidates, which warrants further investigation.
@@ -81,4 +81,6 @@ We will be analyzing each matter with regard to race, gender, and age.
 
 * Age diversity is lacking, with only 5.2% of employees aged 60 or above, which is low compared to national figures. This is particularly concerning in the Software Engineering and Administrative departments with minimal representation of employees over 45, while the Sales department shows a better inclusion of older, well-compensated employees.
 
+## Learning Outcome
+Through this project, I honed my ability to critically analyze workplace diversity, leveraging data analysis logic and advanced visualization techniques using matplotlib and seaborn. My approach involved systematically evaluating recruiting sources, pay equity, and overall diversity profiles by race, gender, and age. By effectively using bar plots, scatter plots, distribution plots, and histograms, I was able to uncover significant insights, such as gender-based wage disparities and the lack of age diversity. This experience strengthened my skills in translating complex data into clear, actionable insights, demonstrating my proficiency in data-driven decision-making.
 
