@@ -3,10 +3,10 @@
 ## Summary
 * In response to growing emphasis on workplace diversity, our company undertook a comprehensive analysis to assess its current diversity landscape. The primary objectives were to identify the most effective recruiting sources for diversity, uncover potential pay inequities, and evaluate the organization's overall diversity profile concerning race, gender, and age. Data visualization played a pivotal role in this analysis. Bar plots revealed wage disparities by gender in specific departments, with women in the Software Engineering department earning more on average, albeit with a smaller sample size. Scatter plots highlighted pay rate variations in the Admin Offices and Software Engineering departments. Age diversity was depicted using distribution plots, indicating a concentration of employees in their late 30s to early 40s. Histogram showcased gender distribution across recruitment sources and departments, revealing sources like newspaper/magazine and Indeed as more favorable for recruiting women. Key findings included Diversity Job Fair emerged as a cornerstone in diversifying Dental Magic. At IT/IS, people of two or more races are paid significantly less than other workers in the same job position. Women constituting 60% of the workforce, yet earning less on average than men. Most workers aged 60+ in Production work at lower-paid positions.
 
-## Situation
+## Introduction
 * In the contemporary business landscape, there's a growing emphasis on fostering diversity and inclusion within organizations. Our company, like many others, recognizes the myriad benefits of a diverse workforce, from enhanced creativity to better financial performance. However, there have been concerns raised, both internally and from external stakeholders, about the current state of diversity within our organization. Questions have emerged about the effectiveness of our recruiting sources in promoting diversity, potential pay inequities across different departments, and the overall diversity profile of the company. Given the importance of these issues, both from an ethical standpoint and for the company's long-term success, there was a pressing need to conduct a comprehensive diversity analysis, focusing on race, gender, and age.
 
-## Task
+## Project Requirement
 
 The main purposes of this project are: <BR>
 
@@ -16,7 +16,7 @@ The main purposes of this project are: <BR>
 
 We will be analyzing each matter with regard to race, gender, and age.
 
-## Action
+## Process Outline
 ### Racial Diversity
 
 ![](https://github.com/KunLinTsai24/Recruitment-and-Compensation-Diversity-Report/blob/main/img/Racial%201.jpg)
