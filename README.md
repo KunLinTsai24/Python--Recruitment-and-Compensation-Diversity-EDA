@@ -62,6 +62,7 @@ We will be analyzing each matter with regard to race, gender, and age.
 ---
 
 ## Conclusion
+### Key insights
 **1. Which sources yield the best results for recruiting a diverse workforce?**
 
 * An evaluation has shown that participating in the Diversity Job Fair is crucial for enhancing Dental Magic's diversity and should be further promoted. Most hires from Indeed and college recruitment initiatives belong to minority groups, whereas other sources predominantly attract Caucasian candidates, which warrants further investigation.
@@ -81,6 +82,16 @@ We will be analyzing each matter with regard to race, gender, and age.
 * Gender-wise, the company employs predominantly women, including its CEO, which is noteworthy in an employment landscape that typically favors men for leadership roles. The high number of women in Production is also significant. However, the company must address the gender pay gap that still exists.
 
 * Age diversity is lacking, with only 5.2% of employees aged 60 or above, which is low compared to national figures. This is particularly concerning in the Software Engineering and Administrative departments with minimal representation of employees over 45, while the Sales department shows a better inclusion of older, well-compensated employees.
+
+### Next steps
+**Enhance Participation in Diversity Job Fairs**: Given the success of the Diversity Job Fair in attracting a racially diverse workforce, the company should increase its investment in and participation in such events. This could involve expanding partnerships with diversity-focused recruitment platforms and increasing visibility at these fairs.
+
+**Address Pay Inequities in IT/IS and Administrative Departments**: The significant pay disparity observed in the IT/IS department, particularly for multiracial employees, requires immediate investigation and correction. Similarly, the gender pay gap in the Administrative department, where women are earning significantly less than men in similar roles, needs to be addressed through a review of pay structures and possible implementation of equity adjustments.
+
+**Improve Gender Pay Equality in Production**: The production department, where women constitute the majority of the workforce yet earn less on average, should be a focus for pay equity initiatives. Conducting a thorough pay audit and considering adjustments or reclassification of roles may help in closing this gap.
+
+**Promote Age Diversity in Recruitment**: The lack of age diversity, particularly the low recruitment of employees aged 60 and above, suggests a need to review recruitment practices to ensure they are inclusive of older workers. Consider implementing targeted recruitment campaigns that appeal to mature workers and reassessing job descriptions to remove any potential age biases.
+
 ---
 ## Learning Outcome
 Through this project, I honed my ability to critically analyze workplace diversity, leveraging data analysis logic and advanced visualization techniques using matplotlib and seaborn. My approach involved systematically evaluating recruiting sources, pay equity, and overall diversity profiles by race, gender, and age. By effectively using bar plots, scatter plots, distribution plots, and histograms, I was able to uncover significant insights, such as gender-based wage disparities and the lack of age diversity. This experience strengthened my skills in translating complex data into clear, actionable insights, demonstrating my proficiency in data-driven decision-making.
